@@ -1,0 +1,13 @@
+
+<html>
+<head>
+    
+    <title>Different Fonts</title>
+</head>
+<body>
+    <p style="font-family: Arial;">This is the first line with Arial font.</p>
+    <p style="font-family: 'Courier New';">This is the second line with Courier New font.</p>
+    <p style="font-family: Georgia;">This is the third line with Georgia font.</p>
+    <p style="font-family: Verdana;">This is the fourth line with Verdana font.</p>
+</body>
+</html>
