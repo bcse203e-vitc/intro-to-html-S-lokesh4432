@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>homework</title>
+    <head>
+    <body>
+        <h1 style="color:rgb(194, 122, 28)">1</h1>
+        <h1 style="color:aqua">2</h1>
+        <h1 style="color:rgba(184, 28, 28, 0.562)">3</h1>
+        <h1 style="color:aquamarine ">4</h1>
+        <h1 style="color:aqua">5</h1>
+        <h1 style="color:rgb(30, 45, 143)">6</h1>
+        <h1 style="color:rgb(192, 192, 22)">7</h1>
+        <h1 style="color:rgb(189, 117, 30)">8</h1>
+        <h1 style="color:black">9</h1>
+        <h1 style="color:blue">10</h1>
+        
+    </body>
+    
+</html>
